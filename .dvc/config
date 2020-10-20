@@ -1,0 +1,4 @@
+[core]
+    remote = s3
+['remote  "s3"']
+    url = https://remote.dvc.org/pawel-test
