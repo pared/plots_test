@@ -1,0 +1,7 @@
+stages:
+  train:
+    cmd: cat data >> p.json
+    deps:
+    - data
+    plots:
+    - p.json

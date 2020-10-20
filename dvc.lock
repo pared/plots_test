@@ -1,0 +1,8 @@
+train:
+  cmd: cat data >> p.json
+  deps:
+  - path: data
+    md5: 1efcab215909754f0947a0a2542852ca
+  outs:
+  - path: p.json
+    md5: 1efcab215909754f0947a0a2542852ca
